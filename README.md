@@ -13,7 +13,7 @@
 
 **I am a...**
 
-- [CSGOTextMod](https://github.com/hexgu/CSGOTextMod_Simplified-Chinese) 中文翻译译者
+- [CS2 Text Color Mod](https://github.com/hexgu/CSGOTextMod_Simplified-Chinese) 中文翻译译者
 - [TeamSpeak 机器人 sinusbot](https://forum.sinusbot.com/resources/%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87-simplified-chinese-translation.520/) 中文翻译译者
 - [TeamSpeak 频道 Alkaid](https://ts.gkd.plus/) 运营者
 
