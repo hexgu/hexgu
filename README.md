@@ -11,8 +11,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=hexgu" align="right" alt="My GitHub Stats" />
 </a>
 
-**I am a...**
-
+****
+🧑‍💻 Python、C、HTML、CSS
 - [CS2 Text Color Mod](https://github.com/hexgu/CSGOTextMod_Simplified-Chinese) 中文翻译译者
 - [TeamSpeak 机器人 sinusbot](https://forum.sinusbot.com/resources/%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87-simplified-chinese-translation.520/) 中文翻译译者
 - [TeamSpeak 频道 Alkaid](https://ts.gkd.plus/) 运营者
@@ -42,8 +42,3 @@
     </tr>
   </tbody>
 </table>
-<h3>Where to find me</h3>
-<p>
-<a href="https://github.com/hexgu" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
-<a href="https://social.hit.moe/@hexg" target="_blank"><img alt="Mastodon" src="https://img.shields.io/badge/Mastodon-%231DA1F2.svg?&style=for-the-badge&logo=Mastodon&logoColor=white" /></a>
-</p>
