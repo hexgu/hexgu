@@ -2,7 +2,10 @@
 
 <a href="https://github.com/hexgu#gh-dark-mode-only">
   <img src="https://github-readme-stats.vercel.app/api?username=hexgu" align="right" alt="My GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hexgu" align="right" alt="My GitHub Stats" />
 </a>
+
+
 
 <br>
 
