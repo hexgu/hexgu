@@ -4,7 +4,7 @@
 一名自由风光摄影师。<br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-57%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%20hrs-blue)
 
 📊 **本周消耗时间** 
 
