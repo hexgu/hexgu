@@ -4,6 +4,23 @@
 一名自由风光摄影师。<br>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-5%20hrs%2020%20mins-blue)
+
+📊 **本周消耗时间** 
+
+```text
+🕑︎ 时区: Asia/Shanghai
+
+💬 编程语言: 
+本周没有记录到任何活动
+
+🔥 编辑器: 
+本周没有记录到任何活动
+
+💻 操作系统: 
+本周没有记录到任何活动
+```
+
 **我最常使用 HTML** 
 
 ```text
