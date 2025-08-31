@@ -23,40 +23,4 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/hexgu"><img src="https://github-readme-stats.vercel.app/api?username=hexgu&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="hexgu's GitHub stats" /></a>
-
-
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-40%20hrs%2045%20mins-blue)
-
-📊 **本周消耗时间** 
-
-```text
-🕑︎ 时区: Asia/Shanghai
-
-💬 编程语言: 
-本周没有记录到任何活动
-
-🔥 编辑器: 
-本周没有记录到任何活动
-
-💻 操作系统: 
-本周没有记录到任何活动
-```
-
-**我最常使用 Shell** 
-
-```text
-Shell                    4 repos             █████████░░░░░░░░░░░░░░░░   36.36 % 
-Python                   2 repos             █████░░░░░░░░░░░░░░░░░░░░   18.18 % 
-HTML                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
-Vue                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
-templ                    1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
-```
-
-
-
-
-<!--END_SECTION:waka-->
-
-
 ![](https://komarev.com/ghpvc/?username=hexgu)
